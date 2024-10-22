@@ -1,7 +1,7 @@
 # Site settings
 title: Kiki Blog
 SEOTitle: Kiki的博客 | KK Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/jaemin.jpg
 email: qianqiliu@ln.hk
 description: "Neo Culture Technology!"
 keyword: "KK, Kiki Blog, Kiki的博客, liuqianqi, 刘谦琪, Nct, Nct_dream"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Neo Culture Technology!"
-sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/jaemin.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
